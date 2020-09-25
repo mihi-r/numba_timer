@@ -1,0 +1,8 @@
+# Build directories
+/build
+/dist
+/numba_timer.egg-info
+
+# Misc
+.vscode
+.DS_Store
